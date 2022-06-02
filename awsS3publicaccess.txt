@@ -1,0 +1,19 @@
+{
+    "Version": "202-06-02",
+    "Statement": [
+        {
+            "Sid": "AddPerm",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::youbucketname/*"
+        }
+    ]
+}
+
+
+
+
+
+### IOT DEVELOPER
+## ATUL KUMAR
