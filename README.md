@@ -12,7 +12,7 @@ give your aws s3 bucket public access
 
  <p align="center">
 <!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
-  <img src="https://drive.google.com/uc?export=download&id=1U9IvX-eJsQjcEi_W6iQrWgqz8I0UHya8" width="950" alt="STEP1">
+  <img src="https://drive.google.com/uc?export=download&id=1M1_vTPYSJOqJmYVxSRIrr2Y4LQBeLJ6u" width="950" alt="STEP1">
 </p>
 
 -------------------------------------------------------------------------------------------------
