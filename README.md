@@ -21,7 +21,7 @@ give your aws s3 bucket public access
 
 <p align="center">
 <!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
-  <img src="https://drive.google.com/uc?export=download&id=1K811kql9Pzm-qmOa0qgRNyKXEoLArlvl" width="950" alt="STEP2">
+  <img src="https://drive.google.com/uc?export=download&id=1MrYaopQ96XEA4ULiz7-yfoz5A3s4Gv7L" width="950" alt="STEP2">
 </p>
 
  ------------------------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ give your aws s3 bucket public access
 ### MAKE SURE YOUR BLOCK ALL PUBLIC SERVICE IS OFF        
 <p align="center">
 <!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
-  <img src="https://drive.google.com/uc?export=download&id=1EvDHo0_bsMaNiJCbZDx0E499cH-Z8Ivk" width="950" alt="STEP3">
+  <img src="https://drive.google.com/uc?export=download&id=1Mzv1IXfTYS9s006e_gMAknl0h7nQMnF1" width="950" alt="STEP3">
 </p>
  
 ---------------------------------------------------------------------------------------------------
