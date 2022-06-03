@@ -26,7 +26,7 @@ give your aws s3 bucket public access
 
  ------------------------------------------------------------------------------------------------
  ## STEP 3:
-### MAKE SURE YOUR BLOACK ALL PUBLIC SERVICE IS OFF        
+### MAKE SURE YOUR BLOCK ALL PUBLIC SERVICE IS OFF        
 <p align="center">
 <!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
   <img src="https://drive.google.com/uc?export=download&id=1EvDHo0_bsMaNiJCbZDx0E499cH-Z8Ivk" width="950" alt="STEP3">
